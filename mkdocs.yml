@@ -2,7 +2,7 @@ site_name: Team Documentation
 site_description: Documentation for our awesome team
 site_author: Your Name
 theme:
- name: landing
+ name: readthedocs
 nav:
  - Home: index.md
  - About: about.md
