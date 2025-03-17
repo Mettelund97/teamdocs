@@ -1,7 +1,8 @@
 site_name: Team Documentation
 site_description: Documentation for our awesome team
 site_author: Your Name
-theme: landing
+theme: 
+  name: material
 nav:
  - Home: index.md
  - About: about.md
