@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mettelund97.github.io/teamdocs/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://mettelund97.github.io/teamdocs/about/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://mettelund97.github.io/teamdocs/guidelines/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
 </urlset>
