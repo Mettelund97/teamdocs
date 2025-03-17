@@ -1,8 +1,12 @@
 site_name: Team Documentation
 site_description: Documentation for our awesome team
 site_author: Your Name
-theme: 
+site_url: https://mettelund97.github.io/teamdocs/
+theme:
   name: material
+  palette:
+    primary: indigo
+    accent: indigo
 nav:
  - Home: index.md
  - About: about.md
